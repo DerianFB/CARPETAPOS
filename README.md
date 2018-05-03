@@ -1,0 +1,2 @@
+# CARPETAPOS
+Proyecto UMG POS
